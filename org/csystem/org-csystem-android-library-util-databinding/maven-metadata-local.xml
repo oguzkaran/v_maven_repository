@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.csystem</groupId>
+  <artifactId>org-csystem-android-library-util-databinding</artifactId>
+  <versioning>
+    <release>23.0.1</release>
+    <versions>
+      <version>23.0.1</version>
+    </versions>
+    <lastUpdated>20230728161924</lastUpdated>
+  </versioning>
+</metadata>
