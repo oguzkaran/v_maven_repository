@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.csystem</groupId>
   <artifactId>org-csystem-android-library-adapter</artifactId>
-  <version>23.0.1</version>
+  <version>23.0.0</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
